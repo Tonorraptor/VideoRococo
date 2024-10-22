@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dialogo final.unity
     guid: 5cc646f6a853f094dbb0a603d268598d
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 914704806d13b2c4ab206c8d978ecdef
   m_configObjects: {}
